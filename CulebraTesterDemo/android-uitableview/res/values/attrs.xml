@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    
+    <declare-styleable name="UIButton">
+	    <attr name="title_" format="string" />
+	    <attr name="subtitle_" format="string" />
+	    <attr name="image" format="integer" />
+  	</declare-styleable>
+
+	<declare-styleable name="UIEditView">
+		<!--<attr name="title_" format="string" />-->
+		<!--<attr name="subtitle_" format="string" />-->
+		<!--<attr name="image" format="integer" />-->
+	</declare-styleable>
+
+</resources>
